@@ -2,7 +2,7 @@
     --text-white: white;
     --text-black: black;
 
-    --text-link: rgb(190, 116, 233);
+    --text-link: rgb(60, 138, 240);
 
     --background-color: rgba(245, 245, 245, 0.97);
     --foreground-color: whitesmoke;
@@ -85,7 +85,6 @@ header > a:hover {
 .events {
     height: 700px;
     width: 100%;
-    border-left: 1px solid var(--divider-color);
     display: block;
 }
 
